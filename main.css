@@ -1,0 +1,236 @@
+body {
+width: 100%;
+height: 100%;
+margin: 0 auto;
+}
+ul {
+    padding: 0px!important;
+}
+.menu-principal {
+width: 100%;
+background-color: #a766b0;
+height: 66px;
+}
+main, .content {
+margin: 0 auto;
+width: 980px;
+position: relative;
+}
+.logo {
+    float: left;
+    padding: 0px;
+    width: 70%;
+}
+.redes-sociais ul li {
+    margin-left: 45px;
+    display: inline-block;
+
+    outline-style: none;
+    
+}
+.redes-sociais {
+    width: 25%;
+    float: right;
+}
+.header-2 {
+    background-color: #ffffff;
+    width: 980px;
+    margin: 0 auto;
+    padding: 16px;
+}
+.menu-urls {
+    height: 80px;
+    border-bottom: 3px solid #efefef;
+}
+.menu ul li {
+    display: inline-block;
+    color: #8b8b8b;
+    margin-left: 15px;
+    height: 50px;
+}
+.menu ul li:hover {
+    border-bottom: 3px solid #a766b0;
+}
+.menu ul li a:hover {
+    color: #a766b0;    
+    
+}
+.menu ul li a {
+    color: #8b8b8b;
+    text-decoration: none;
+    font-size: 15px;
+    text-transform: uppercase;
+}
+.menu {
+    width: 70%;
+    float: left;
+}
+.busca {
+    width: 30%;
+    float: right;
+    text-align: center;
+}
+.busca input {
+    background-image: url(../img/lupa.png);
+    background-repeat: no-repeat;
+    background-position: 10pc;
+    width: 194px;
+    height: 36px;
+    margin-top: 10px;
+    padding: 7px;
+    
+}
+.col-100 {
+    width: 100%;
+    float: left;
+    position: relative;   
+ 
+   
+}
+
+button.slick-prev {
+    font-size: 0px;
+    border: none;
+    width: 30px;
+    height: 50px;
+    background-color: transparent;
+    background-image: url('../img/setaesquerda.png');
+    position: absolute;
+    z-index: 9;
+    top: 40%;
+    left: 0;
+}
+button.slick-next {
+    font-size: 0px;
+    border: none;
+    width: 30px;
+    height: 50px;
+    background-color: transparent;
+    background-image: url('../img/setadireita.png');
+    position: absolute;
+    z-index: 9;
+    top: 40%;
+    right: 0;
+}
+.slick-list {
+    width: 100%!important;
+}
+
+.slick-initialized {
+    overflow: hidden;
+    margin-bottom: 200px;
+}
+.slick-dots li button {
+    font-size: 0px;
+    border: 5px solid #ffffff;
+    width: 26px;
+    height: 26px;
+    background: transparent;
+    border-radius: 50%;
+    cursor: pointer;
+}
+.slick-dots {
+    margin: 0 auto;
+    width: 50%;
+    position: absolute;
+    left: 45%;
+    top: 1745px;
+}
+
+.slick-dots li {
+    padding-left: 10px;
+    display: inline-block;
+}
+
+li.slick-active button {
+    background: #a766b0;
+}
+
+.texto-destaque {
+    text-align: center;
+}
+
+.texto-destaque h1 h3 {
+    text-transform: uppercase;
+    font-size: 30px;
+    color: #a9a9a9;
+}
+
+.texto-destaque p {
+    font-size: 15px;
+    color: #a9a9a9;
+
+}
+.line {
+    width: 50%;
+    margin: 0 auto;
+    border-bottom: 3px solid #efefef;
+}
+.container {
+    width: 50%;
+    margin: 0 auto;
+    margin-bottom: 200px;
+  }
+  
+  .form-contact {
+    width: 100%;
+    font-family: "Arial", Times, serif;
+  }
+  
+  .form-contact-input {
+    width: 100%;
+    color: #292929;
+    font-size: 18px;
+    background-color: #E9E9E9;
+    border: 1px solid #E9E9E9;
+    -moz-border-radius: 5px;
+    -webkit-border-radius: 5px;
+    border-radius: 5px;
+    height: 40px;
+    margin-bottom: 20px;
+    border-bottom: 1px solid #ccc;
+    border-left: 1px solid #ccc;
+    text-indent: 20px;
+  }
+  
+  .form-contact-textarea {
+    width: 100%;
+    color: #292929;
+    font-size: 18px;
+    background-color: #E9E9E9;
+    border: 1px solid #E9E9E9;
+    -moz-border-radius: 5px;
+    -webkit-border-radius: 5px;
+    border-radius: 5px;
+    height: 200px;
+    margin-bottom: 20px;
+    border-bottom: 1px solid #ccc;
+    border-left: 1px solid #ccc;
+    text-indent: 20px;
+    padding-top: 16px;
+    padding-left: 0;
+    padding-right: 0;
+    font-family: "Arial", Times, serif;
+  }
+  
+  .form-contact-button {
+    width: 100%;
+    font-size: 18px;
+    border-radius: 4px;
+    color: #fff;
+    height: 40px;
+    opacity: .8;
+    margin-bottom: 20px;
+    cursor: pointer;
+    background: #a766b0;
+    display: block;
+    border: none;
+    border-bottom: 1px solid #500707;
+    border-right: 1px solid #500707;
+    transition: 1s;
+  }
+  
+  .form-contact-button:hover {
+    opacity: 1;
+  }
+  
