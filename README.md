@@ -2,7 +2,7 @@
 Colocando em prática o que estou estudando, eu começei a fazer este site do zero e todas as coisas que estou aprendendo vou colocando em prática,
 utilizando o VSCode entre outros programas, na parte Serviços eu ainda não começei a trabalhar nela pois quero utilizar funções JScript
 e ainda não sei como funciona muito bem, fico inteiramente a disposição para quem quiser me ajudar.
-Este site se refere a uma linha de produtos que minha esposa e eu trabalhamos e eu gostaria que ele fosse 100% funcional no futuro para vendas e etc...
+Este site se refere a uma linha de produtos que minha esposa e eu trabalhamos e eu gostaria que ele fosse 100% funcional no futuro para vendas e etc... (SOBRE NÓS E SERVIÇOS AINDA NÃO ESTÃO FEITOS).
 <h1 align="center">
     <a href="index.html"</a>
 </h1>
